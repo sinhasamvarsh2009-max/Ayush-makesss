@@ -1,0 +1,6 @@
+{
+  "name": "AutoCaption",
+  "description": "AI Hinglish auto-caption studio with syllable & word sync, trending typography styles, gallery & file import, and export engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

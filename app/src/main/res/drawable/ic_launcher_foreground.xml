@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Subtitle Speech Card (centered in 66dp safe zone) -->
+    <path
+        android:fillColor="#06B6D4"
+        android:pathData="M28,32 C28,27.58 31.58,24 36,24 L72,24 C76.42,24 80,27.58 80,32 L80,66 C80,70.42 76.42,74 72,74 L52,74 L40,84 L43,74 L36,74 C31.58,74 28,70.42 28,66 Z" />
+    <!-- Inner Dark Screen -->
+    <path
+        android:fillColor="#0B0F19"
+        android:pathData="M31,35 C31,32.2 33.2,30 36,30 L72,30 C74.8,30 77,32.2 77,35 L77,63 C77,65.8 74.8,68 72,68 L36,68 C33.2,68 31,65.8 31,63 Z" />
+    <!-- Wave / Sound accent -->
+    <path
+        android:fillColor="#22D3EE"
+        android:pathData="M35,37 L41,37 L41,39 L35,39 Z" />
+    <!-- First 'C' -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,43 L45,43 C42.8,43 41,44.8 41,47 L41,53 C41,55.2 42.8,57 45,57 L50,57 L50,53 L45.2,53 L45.2,47 L50,47 Z" />
+    <!-- Second 'C' -->
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M63,43 L58,43 C55.8,43 54,44.8 54,47 L54,53 C54,55.2 55.8,57 58,57 L63,57 L63,53 L58.2,53 L58.2,47 L63,47 Z" />
+    <!-- Active Karaoke glowing dot -->
+    <path
+        android:fillColor="#4ADE80"
+        android:pathData="M67,49 C67,47.9 67.9,47 69,47 C70.1,47 71,47.9 71,49 C71,50.1 70.1,51 69,51 C67.9,51 67,50.1 67,49 Z" />
+    <!-- Underline subtitle timing bar -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M41,61 L67,61 L67,63 L41,63 Z" />
+</vector>
